@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "411225006646",
+    "project_id": "cs21-22706",
+    "storage_bucket": "cs21-22706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411225006646:android:a9924d198e82161536ae97",
+        "android_client_info": {
+          "package_name": "com.example.birthdayreminde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411225006646-f8t0sgaejgb1q33gumsprejmivq28lai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnb3HCQsk2O89MD5i47Co16suo9q7v0TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411225006646-f8t0sgaejgb1q33gumsprejmivq28lai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411225006646-dmhlibel6ofpdp72ks04fvfr49gjgmcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.birthdayreminde"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
